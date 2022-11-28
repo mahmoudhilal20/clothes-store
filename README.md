@@ -1,0 +1,2 @@
+A clothes Store management system that allows employees to add/edit/remove items, add/edit/remove customers. This MS can store all the needed information for their clients and their store's items. It's not an e-commerce store. It's managing the operations the every firm needs it.
+This system was made using PHP(Procedural) and MYSQL database for back-end, HTML,CSS, Javascript and Bootstrap for front-end.
